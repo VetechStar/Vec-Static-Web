@@ -1,1 +1,0 @@
-# Vec-Static-Web
